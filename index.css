@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    font-family:’Paytone One’, sans-serif;
+}
+h1 {
+font-size:30pt;
+color: Aqua; 
+font-family:’Paytone One’, sans-serif;}
+
+a {
+    text-decoration: none;
+}
+
+p {
+font-size:12pt;
+color: white; 
+font-family:’Paytone One’, sans-serif;}
+
+/* unvisited link */
+a:link {
+    color: aqua;
+}
+
+/* visited link */
+a:visited {
+    color: white;
