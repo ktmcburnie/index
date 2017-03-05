@@ -18,9 +18,9 @@ font-family:’Paytone One’, sans-serif;}
 
 /* unvisited link */
 a:link {
-    color: aqua;
+    color: white;
 }
 
 /* visited link */
 a:visited {
-    color: white;
+    color: pink;
