@@ -1,6 +1,7 @@
 body {
     background-color: black;
     font-family:’Paytone One’, sans-serif;
+    font-size:12pt;
 }
 h1 {
 font-size:30pt;
@@ -13,7 +14,7 @@ a {
 
 p {
 font-size:12pt;
-color: white; 
+color: aqua; 
 font-family:’Paytone One’, sans-serif;}
 
 /* unvisited link */
